@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-amje",
+  "version": "1.0.0",
+  "description": "My personal eslint configs for different environments (Browser, Node.js, React)",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 6"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "amje"
+  ],
+  "author": "Andrey Morozov <amje@yandex.ru>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amje/eslint-config"
+  },
+  "bugs": {
+    "url": "https://github.com/amje/eslint-config/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": "^3.0.0 || ^4.0.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}

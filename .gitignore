@@ -1,0 +1,6 @@
+# Personal
+.idea
+.DS_Store
+
+# Dependencies
+node_modules
